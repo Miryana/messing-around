@@ -1,0 +1,24 @@
+{
+  "name": "rubes-object",
+  "version": "0.0.0",
+  "authors": [
+    "David Plews"
+  ],
+  "description": "A little test to explore a theory",
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "underscore": "~1.5.2",
+    "bootstrap": "~3.0.0",
+    "buzz": "~1.1.0"
+  }
+}
